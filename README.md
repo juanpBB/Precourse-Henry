@@ -1,2 +1,3 @@
-# Precourse-Henry
-Mi primer repositorio del modulo2 de henry
+mi nombre es Juan Pablo Blandon
+y este es mi primer commit en github
+
